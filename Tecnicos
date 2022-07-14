@@ -1,0 +1,9 @@
+deployment:
+https://bscscan.com/tx/0x0408587de325e033a0dbc1e70437adb4ece818e4c8468a82c0c483aad805529e
+
+#Contract:
+0x8Cd1abf0ACffF1B61d0C694C5625230C514A20f9
+
+Verification:
+
+https://bscscan.com/verifyContract-solc?a=0x8Cd1abf0ACffF1B61d0C694C5625230C514A20f9&c=v0.8.15%2bcommit.e14f2714&lictype=3
